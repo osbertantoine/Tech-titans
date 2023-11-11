@@ -1,0 +1,70 @@
+[{
+  "Title": "Gaming Laptop with RGB Lighting",
+  "Description": "High-performance gaming laptop with a sleek design, RGB lighting, and dedicated graphics for an immersive gaming experience.",
+  "Price": "$1500",
+  "Seller Name": "GameTech Solutions",
+  "Contact Info": "123-456-7890"
+},
+{
+  "Title": "Wireless Noise-Canceling Earbuds",
+  "Description": "True wireless earbuds with active noise cancellation and long-lasting battery life for crystal-clear audio on the go.",
+  "Price": "$180",
+  "Seller Name": "AudioBliss Store",
+  "Contact Info": "234-567-8901"
+},
+{
+  "Title": "Fitness Smart Scale with App Integration",
+  "Description": "Smart scale for comprehensive body analysis, including weight, BMI, and muscle mass, with smartphone app integration.",
+  "Price": "$70",
+  "Seller Name": "FitScale Tech",
+  "Contact Info": "345-678-9012"
+},
+{
+  "Title": "Leather Messenger Bag for Professionals",
+  "Description": "Stylish leather messenger bag with multiple compartments, perfect for professionals on the go.",
+  "Price": "$120",
+  "Seller Name": "UrbanChic Boutique",
+  "Contact Info": "456-789-0123"
+},
+{
+  "Title": "HD Waterproof Action Camera",
+  "Description": "Compact and durable action camera with high-definition recording, perfect for capturing adventurous moments.",
+  "Price": "$200",
+  "Seller Name": "ActionCapture Gear",
+  "Contact Info": "567-890-1234"
+},
+{
+  "Title": "Smart LED Desk Lamp with Wireless Charging",
+  "Description": "Modern desk lamp with adjustable brightness, color temperature, and wireless charging pad for added convenience.",
+  "Price": "$60",
+  "Seller Name": "IlluminateTech Solutions",
+  "Contact Info": "678-901-2345"
+},
+{
+  "Title": "Electric Toothbrush with UV Sanitizer",
+  "Description": "Advanced electric toothbrush with UV sanitizer for superior oral hygiene and a fresh, clean feel.",
+  "Price": "$80",
+  "Seller Name": "SmileTech Innovations",
+  "Contact Info": "789-012-3456"
+},
+{
+  "Title": "Premium Noise-Isolating Studio Headphones",
+  "Description": "Professional studio headphones with noise isolation, ideal for musicians and audio professionals.",
+  "Price": "$300",
+  "Seller Name": "StudioSound Pro",
+  "Contact Info": "890-123-4567"
+},
+{
+  "Title": "Foldable Electric Scooter for Commuters",
+  "Description": "Compact and foldable electric scooter with a powerful motor, suitable for daily commuting.",
+  "Price": "$400",
+  "Seller Name": "EcoRide Solutions",
+  "Contact Info": "901-234-5678"
+},
+{
+  "Title": "Digital Drawing Tablet with Stylus",
+  "Description": "Graphic drawing tablet with a sensitive stylus for digital artists and illustrators.",
+  "Price": "$250",
+  "Seller Name": "ArtTech Creations",
+  "Contact Info": "012-345-6789"
+}]
