@@ -15,4 +15,8 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
+  {
+  "main": "src/server.js"
+}
+
 }
